@@ -1,0 +1,6 @@
+PEE=970
+POO=780
+DUR=0.65
+AIDA = DUR*0.05;
+Gain = 1.0;
+FS=44100
